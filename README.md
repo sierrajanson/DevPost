@@ -1,5 +1,5 @@
 # DevPost
-goofy social media for developers idea
+goofy social media for developers idea in ReactJS
 
 possibly featuring:
 - speed-dating aka matching developers based on project interests, skills, and experience
