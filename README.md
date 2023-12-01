@@ -1,5 +1,7 @@
 DevPost
-November 2023
+
+Sierra Janson | November 2023
+![Animation](https://github.com/sierrajanson/DevPost/blob/master/devpost.gif)
 
 Utilizing Firebase (Realtime Database and Authentication) and React JS, this is my idea for a social media platform built for developers, in which developers can publicize their ideas and formulate a team and a plan for progrress, in addition to connecting to other developers. 
 Ideas:
